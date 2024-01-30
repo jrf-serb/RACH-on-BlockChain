@@ -1,0 +1,15 @@
+{
+  "config": {
+    "chainId": 5543,
+    "homesteadBlock": 0,
+    "eip150Block": 0,
+    "eip155Block": 0,
+    "eip158Block": 0
+  },
+  "nonce": "0x0",
+  "timestamp": "0x5d8d3f5e",
+  "parentHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+  "gasLimit": "0x88000000",
+  "difficulty": "0x1",
+  "alloc": {}
+}
